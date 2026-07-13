@@ -11,3 +11,4 @@ print(mydict)
 #2)dict()
 mydict=dict(thisdict)
 print(mydict)
+

@@ -1,5 +1,4 @@
 #Acess tuple using index
-tuple=("apple","banana","cherry","kiwi","dragon","guava")
 print(tuple[1])
 
 print(tuple[-1])
