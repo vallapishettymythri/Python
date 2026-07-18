@@ -1,0 +1,30 @@
+2) Relational Operator- 
+It is used to compare or finding the relationship between 2 or more values. 
+>   greater than
+<   lesser than
+>=  less than or equals
+<=  great than or equals
+==  equals to- compare values
+!=  not equals to
+
+It gives the output in boolean, True or fals. 
+
+3) logical Operator:
+Used to combine two or more conditions or expressesions. 
+Non zero is True
+Zero is False
+i) AND
+0    0   0
+0    1   0
+1    0   0
+1    1   1
+
+ii)OR 
+0    0   0
+0    1   1
+1    0   1
+1    1   1
+
+iii) NOT 
+0-> 1
+1-> 0
