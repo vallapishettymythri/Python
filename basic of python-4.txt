@@ -1,0 +1,42 @@
+Decimal (10)- 0 to 9.
+Binary(2)- 0 or 1
+Octal(8)-0 to 7
+Hexa decimaal(16)- 0 to 9 and A-F 
+
+
+Convert decimal to other- Just by dividing by the value of the other.
+Decimal to binary. 
+ex-10
+10/2=0
+5/2=1
+1/2=0
+1
+from up to down.. the value of 10 is 1010
+
+It goes same with other numbers which divides by the other base number. 
+
+Binary to decimal. 
+Ex- 13
+
+8 4 2 1- powers of 2. 2^1, 2^2, 2^3... continous...
+1 1 0 1
+
+
+
+1's complement:
+The fliping 0 to 1 and 1 to 0.
+Ex: 7 
+8 4 2 1
+0 1 1 0
+1 0 0 1 -1's complement
+
+2's complement
+1's complement + 1
+
+ex:7 
+8 4 2 1
+0 1 1 0
+
+1 0 0 1 - 1's 
++     1
+1 0 0 1 - 2's 
