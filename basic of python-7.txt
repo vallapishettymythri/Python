@@ -1,0 +1,31 @@
+Data types:
+there is no need of declaring the data type as c or c++ like int.
+1. Numeric: 
+int- integer, negative to zero.
+float- decimal numbers
+complex- real + imaginary
+
+2.string: collection of characters. Which can be written by '',"".
+
+3. Bool: True(1) or false(0)
+
+4.Sequence data type:
+1.List- List are used to store multiple items in a single variable.
+Lists are ordered, changeable, and allows duplicate values. 
+Can contain different data types. represented using [].
+
+list()- its a constructor used to create a new list without using [] square brackets. 
+
+
+5. Tuples: Ordered, unchangeable, allow duplicates.
+represented using (). It can contain different data types.
+
+6. Sets-unordered, unchangeable, unindexed, doesn't allow duplicates.
+duplicates are ignored. representedusing {}.
+False and 0 are considered as same.
+
+7. Mapping data type:
+1. Dictionaries:store in key: value pairs.
+ordered, changeable, and do not allow duplicates.
+represented using {}.
+
