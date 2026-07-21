@@ -18,3 +18,10 @@ container is used.
        not present- false
 2. not in- present- false
            not present-true
+
+
+7) Identity operator- 
+The variables or objects point to same location. 
+If its under 256 to -5 range. 
+1. is- is used to check whether both are same or not.
+2. is not- checks whether both are not same.
