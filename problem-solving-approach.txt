@@ -1,0 +1,11 @@
+Repeatative kind of problem statement then to solve that Repeatative problem we are having a two approaches. 
+1. Interative approach(loops)
+2.Recursive approach(function)
+
+Iterative have 2 types
+1. While loop
+2.For loop
+iteratives have 2 steps:
+1. Intialisation: start step
+2. Condition: up to where to go
+3. Updation: step size
