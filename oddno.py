@@ -1,0 +1,8 @@
+#odd no print
+i=1
+while i<=20:
+    if i%2==0:
+        print(i**2)
+    else:
+        print(i+2)
+    i+=2
