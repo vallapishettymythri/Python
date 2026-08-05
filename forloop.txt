@@ -1,0 +1,5 @@
+it has 3 things same has the while
+1. intialisation- start-0(by default)
+2.condition-<=(stop)
+3.updation-step size-1(by default)
+
