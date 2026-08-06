@@ -3,3 +3,7 @@ it has 3 things same has the while
 2.condition-<=(stop)
 3.updation-step size-1(by default)
 
+syntax:
+for i in range(start,condition,updation):
+    stmts
+    
