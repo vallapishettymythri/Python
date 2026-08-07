@@ -1,0 +1,22 @@
+Function is a self contained block to perform a particular task.
+function() -> person()
+Every function contains certain number of instructions
+Function impotance:
+1. Moduality- Dividing larger program into smaller modules. 
+That modules are nothing but 2 things.
+2. Reusability- Once written a function we can use it any number of time
+in that program.
+
+To write a function we need 3 things:
+1. Func declaration/ prototype- As python is dynamical in nature 
+there is no need of declaration as c or c++. 
+Eg- int a, we can directly write a in python.
+2. Func defination-Function with a body
+syntax:
+def func_name(parameters):
+    body
+3. Func call- Its mandatory to call a function to print an output. 
+syntax:
+func_name(parameters)
+
+If a function has a parameter it need to pass else no need to pass it. 
