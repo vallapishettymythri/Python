@@ -1,0 +1,20 @@
+Inbuilt data structures in pyton
+->It is a way of organising a data in a optimal way.
+->It is taking less time whenver we are taking to access the data, it will take
+less space to get stored.
+->So in data strcuture the inbuilt ds is available in the language itself.
+->We can directly use it without an implementation
+4 inbuilt ds 
+1. List  2. Tuple  3. Set  4. Dictionary
+
+Generic ds- Is not avaiable in language,  we need to create it. 
+Linked list, queue,tree, graph etc
+
+Linear-Storing the data in a linear fashion.
+list,tuple,set,dictionary, stack queue, linked list etc
+Non-linear- Storing the data in non linear way
+Graph, tree etc
+
+physical ds-list, linked list
+logical ds- tree, graph, stack etc
+
