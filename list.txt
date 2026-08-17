@@ -1,0 +1,9 @@
+List:
+list is a linear data structure. 
+Collection of heterogeneous kind of a data. (Can contain different data types)
+Changeable
+Allow duplicates
+
+syntax:
+lst_name=[item1,item2,item3,....]
+
