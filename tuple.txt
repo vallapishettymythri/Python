@@ -1,0 +1,10 @@
+Tuple
+It is a linear datastructure
+heterogeneous collection
+syntax-
+tuple_name=(item1,item2---itemn)
+Tuple also has index and that starts from 0
+
+accesing tuple:
+1. Access single element-index
+2.Multiple elements-slicing
