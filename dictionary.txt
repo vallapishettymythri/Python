@@ -1,0 +1,14 @@
+Dictionary is a linear data structure.
+Storing data in a dictionary form of key and value pair
+Syntax:
+dict_name={
+    "key1":"value",
+    "key2":"value"
+}
+Each key and value pair called has dictionary items
+Keys used be unique
+operators can be used as key: Integer,float,complex no,boolean,string,tuple
+
+Dictionary is storred in a memory using a data structure called hash table.
+The beauty of dictionary is:
+Insertion, deletion, lookup which are done in O(1) time
