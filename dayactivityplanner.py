@@ -1,5 +1,4 @@
 #Day-to-Activity Planner
-# Write your code here
 n=input()
 match n:
     case "Monday":
