@@ -1,0 +1,15 @@
+"Common elements" → intersection → &
+
+"Combine elements from both" → union → |
+
+"Elements only in A" → A - B
+
+"Elements only in B" → B - A
+
+"Elements in exactly one of A and B" → symmetric difference → ^
+
+"No common elements" → disjoint
+
+"A is contained in B" → subset
+
+"A contains B" → superset
