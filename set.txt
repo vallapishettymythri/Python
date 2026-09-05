@@ -1,0 +1,8 @@
+Set is linear Data structure.
+Having heteroneous kind of data structure.
+Unordered
+Wont allow duplicates
+Immutable
+
+syntax-
+set_name={item1,item2...}
