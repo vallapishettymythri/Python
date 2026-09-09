@@ -1,4 +1,5 @@
-#String compression (Variation 2)- Try
+#String compression (Variation 2)- even count is printed off count is not printed
+
 def compression(s):
     s1=s[0]
     count=1
