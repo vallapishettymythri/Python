@@ -1,0 +1,8 @@
+#String is a sequnce of characters
+syntax=
+string_name" " or ' ' 
+String index starts from zero
+
+Access of string-
+1.We can acess with the help of index 
+2. Multiple elements using slicing
