@@ -1,0 +1,15 @@
+Regex is nothing but a regular expression.
+It is sequence of a special character which is used to find specific pattern in the text.
+Data extraction:
+-Data is available in form of files.
+-fetch a data through API.
+-website- web scrapping
+
+It is used for text cleaning, Validating things, Masking.
+
+Regex module- import re
+
+to install-
+!pip install Regex
+
+the program behind compiler which does validation is a* which is also a regular expression.
