@@ -1,0 +1,19 @@
+File is a named memory location on hard disk.
+Why we want to save a program?
+
+Storing program concept is given by von neu man saving in harddisk
+There are two types of files:
+1.Text file-having characters
+2.Binary file-Image,audio,video,pdf etc
+
+Why we require a file?
+Data preservence- We can store data in two ways, a file and a database.
+
+What is file handling?
+Performing operations on to the file.
+
+Operations:
+1.Opening a file
+2.Closing a File
+3.reading a file
+4.Writing a file
