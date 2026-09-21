@@ -1,0 +1,32 @@
+Exception Handling-
+Error- Unexpected event which disturbs the flowe of execution of program.
+
+Types of errors:
+1.Syntax Error-  If not followinf the rules of programming language. If we got an syntax error cant able to execute.
+If need to execute, need to correct syntax.
+2.Logical Error- The logical error which doesn't give an error but gives the wrong output. 
+3. Runtime Error- The error which gives in time of execution. Run time error is called as Exception.
+    1.Type Error
+    2.Type Error
+    3.Value Error
+    4.Key Error(Dictionary)
+    5.Recurssion Error
+    6.Memory Error
+    7.Index Error
+    8.Segmentation fault-whenever we try to access a restricted area in memory, we get this error.
+    But in Python there will be no Segmentation fault. If python using a low level language library like C and C++.
+    Then there will be a chances of Segmentation fault.
+
+File handling is not rectifying the error. It is all about finding alternative way to do.
+We have exception handling blocks are
+1.try
+2.except 
+3.finally
+
+Try-It is having a risky code. We will keep that code which can raise the exception.
+
+Except- Handling code. If a exception is getting raise this block will handle the exception.
+If there is exception then only except block is getting executed. Otherwise it will not be executed.
+
+
+Finally- It is just for cleanuo or refresh purpose. Weather the exception raised or not the finally is execute.
