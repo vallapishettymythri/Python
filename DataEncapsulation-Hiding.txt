@@ -1,0 +1,15 @@
+Data Encapsulation:
+Class is a best example of Encapsulation.
+Class is a way to bind a data and its associated functions together into a single unit this we called it as Encapsulation.
+Encapsulation = Data + Methods together in a class
+
+
+Data hiding:
+It is part of Encapsulation
+We are hiding a data from a users
+To achieve a data hiding, we are having access specifiers.
+1. Pulic- Data is accessible everywhere by everyone.
+2. Private-Cannot access the Data
+3. Protected- Not there in python
+
+Data hiding is not at all possible in python because of this python is not purely object oriented program language
