@@ -1,0 +1,11 @@
+Inheritance:
+Inheritance is a concept where the properties of one class acquires the properties of another class.
+Inheritance provides reusability and extensibility.
+
+There are 5 types of Inheritance:
+1.single Inheritance
+2.multilevel Inheritance
+3.Multiple Inheritance
+4.Hierarchical Inheritance
+5. Hybrid Inheritance
+
