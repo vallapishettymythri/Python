@@ -1,0 +1,29 @@
+OOPS:
+Coding a real world problem using object oriented features. Everything in python is an object.
+
+Advantages of oops:
+We can create our own data types.
+
+Python is partially oops, as data hiding is validating
+
+Class- Class is a user defined data type.
+What class contains?
+-attributes-data
+-methods-behaviour
+
+Object- Object is a variable whose data type is class.
+
+for example. 
+Car- is a class
+porche, jaguar, bmw, windsor Everything comes under objects of the class. They have same stt=ructure of car like the method properties 
+like 4 wheels a steering etc.
+
+syntax:
+class  class_name:
+    attributes
+    methods
+
+syntax:
+obj_name=class_name()
+
+without creating an object, we cannot execute any class.
