@@ -1,29 +1,19 @@
-OOPS:
-Coding a real world problem using object oriented features. Everything in python is an object.
+#Sample code
+class sample:
+    def __init__(self): #constructor(method) - self is used to call the constructor method.
+        print("Hello")
+obj=sample() #if not called not print
 
-Advantages of oops:
-We can create our own data types.
+Constructor is no need of calling, it automatically executes when a function gets executed.
 
-Python is partially oops, as data hiding is validating
 
-Class- Class is a user defined data type.
-What class contains?
--attributes-data
--methods-behaviour
+def-  outside the class it is function
+    -inside the class it is method
 
-Object- Object is a variable whose data type is class.
+def__init__(self):
+It is a special method in a python we call it as constructor.
+In python we have only one constructor.
 
-for example. 
-Car- is a class
-porche, jaguar, bmw, windsor Everything comes under objects of the class. They have same stt=ructure of car like the method properties 
-like 4 wheels a steering etc.
+For a single class we can create any number of objects.
 
-syntax:
-class  class_name:
-    attributes
-    methods
-
-syntax:
-obj_name=class_name()
-
-without creating an object, we cannot execute any class.
+Mainly, we will keep the code inside the constructor, whose control we dont wanted to give it to the user.
