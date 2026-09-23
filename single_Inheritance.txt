@@ -1,0 +1,11 @@
+we have one parent class and one child class.
+Parent class- Base class
+Child class- Derived class
+
+syntax:
+class base_class_name:
+    body
+class derived_class_name(base_class_name):
+    body
+
+->We need to create object for child class and through child class we can acess a method from child class as well as parent class.
