@@ -8,3 +8,4 @@ class derived_class(base_class):
     def display2(self):
         print("hello")
 obj=derived_class()
+
