@@ -1,0 +1,10 @@
+Multiple inheritance-
+It has multiple base class but single derived class.
+
+syntax:
+class father:
+    body
+class mother:
+    body
+class child(father,mother):
+    body
