@@ -1,0 +1,10 @@
+Multilevel inheritance-
+It has grand parent, parent and child. 
+
+syntax:
+class base class:
+    body
+class2 name(base class):
+    body
+class3 name(class2 name):
+    body
