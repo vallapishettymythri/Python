@@ -1,0 +1,14 @@
+Abstraction-
+Hiding the internal details and showing the necessary things. 
+
+syntax:
+from abc import ABC
+abstract method
+
+
+from-keyword
+abc-abstract base class module.
+ABC- abstract base class
+
+If we want to make any class as a abstract base class then that class must be inherited from ABC.
+ABC is parent class for all abstract class.
