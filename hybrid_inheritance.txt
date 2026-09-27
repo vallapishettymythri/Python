@@ -1,0 +1,12 @@
+Hybrid inheritance-
+When we combine 2 or more inheritance it will become a hybrid inheritance.
+
+
+eg-
+             A
+           /   \
+          B     C
+           \   /
+             D
+
+            
