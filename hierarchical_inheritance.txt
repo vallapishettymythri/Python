@@ -1,0 +1,12 @@
+Hierarchical inheritance- From one base class we can have multiple child classes. 
+Its like a tree structure. 
+class base-class:
+    body
+class derived-class1(base-class):
+    body
+class derived-class2(base-class):
+    body
+class dervived-clas3(base-class):
+    body
+
+for each child class we need to create a object to execute it.
