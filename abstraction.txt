@@ -2,8 +2,7 @@ Abstraction-
 Hiding the internal details and showing the necessary things. 
 
 syntax:
-from abc import ABC
-abstract method
+from abc import ABC,abstract method
 
 
 from-keyword
