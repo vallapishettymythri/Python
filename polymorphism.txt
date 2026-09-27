@@ -1,0 +1,13 @@
+Polymorphism-
+Same operations different implementations.
+Ability to take more than one form. 
+Example- 
+1. Method overloading- We have same method name, but performs different types of operations. 
+So method overloading isn't possible in python.
+
+2. Operator Overloading- Same operator but does different tasks. 
+2+3- integer addition
+"abc"+"pqr"- concatenation
+[2,3,4]+[5,6,7]-merging
+
+ 
