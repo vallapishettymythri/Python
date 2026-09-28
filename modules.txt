@@ -1,0 +1,26 @@
+Module- 
+module is any python file with ".py" extension.
+Module will contains the functions and its definations.
+
+We have two types of modules.
+1.Pre-defined/built in- These modules are already available in 
+programming language.
+syntax:
+import module_name
+eg-
+import math
+import os
+
+How to access the functions present in the module?
+module_name.function_name()
+
+DS & AI has full of modules.
+    1.Math- It is having all the functions relatd to mathematics
+    2.OS-Wuth the help of os module, python code can communicate with 
+    operating system.
+    3.Datetime-It gives the datetime, which is used in time series.
+
+
+2.User defined module-
+Creeate your own modules Create a file with filename.py add functions and save.
+Import the module and use the functions of the module.
