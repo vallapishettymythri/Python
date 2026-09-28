@@ -1,0 +1,15 @@
+Pre defined functions:
+It is already available in language. 
+
+1.abs()-
+It will give the absolute value. Means it will give without sign.
+syntax-abs(a)
+
+2.all()
+3.any()
+4.isinstance()
+5.map()
+6.filter()
+7.reduce()
+8.enumerate()
+9.lambda()
