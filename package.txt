@@ -1,0 +1,11 @@
+packages is a group of modules. 
+Every package in a python must have __init__.py file.
+If it is not there then it will be not considered has package.
+
+__init__.py- Initialization file
+
+
+my_package/
+├── __init__.py
+├── math.py
+└── calculator.py
