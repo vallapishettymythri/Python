@@ -1,0 +1,11 @@
+Library:
+Collection of packages and  modules.
+
+Library
+   ↓
+Package / Modules
+   ↓
+Functions / Classes / Code
+
+example-
+NumPy is commonly called a Python library.
