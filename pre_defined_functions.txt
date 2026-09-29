@@ -5,11 +5,47 @@ It is already available in language.
 It will give the absolute value. Means it will give without sign.
 syntax-abs(a)
 
-2.all()
-3.any()
-4.isinstance()
-5.map()
-6.filter()
-7.reduce()
-8.enumerate()
-9.lambda()
+2.all()-It is a function used with a iterables(list,tuples)
+It will return true when all the values in the iterable is True otherwise it 
+will be false.
+Every non zero is considered has true
+every zero is considered as false.
+
+3.any()-It is used with iterable. It will return false if all the values in the
+iterable are false otherwise returns true.
+
+4.isinstance()-It will return true when the specific variable is instance of given
+class. Otherwise it will return false.
+syntax-isinstance(object, type)
+
+5.map()- It is a higher order function.
+Map function will take another function has argument.
+It will works on iterables. It applies to each value of the iterable.
+syntax-map(function,iterable)
+
+6.filter()- It is also an higher order function. 
+It will also take function has argument.It filters out the elements based on the condition.
+Same has map, it will filter into an object which is needed to convert to iterable.
+
+7.reduce()- It is used to reduce the iterable into a single value. 
+Giving entire iterable as a input and it is returning the single value as a output.
+syntax: 
+from functools import reduce
+reduce(function,iterable)
+
+8.enumerate()-It is used to listng down the iterable.
+It use iterate the iteration
+When we want to iterate the index of iterable then we will use a enumerate.
+syntax:
+enumerate(iterable,start=0)
+by default start
+->index + value
+
+9.lambda()- It is a anonymous function.
+In python anonymous means a fucntion which dont have any name.
+This function is used to write consize way of writing a code.
+Using lambda function we can write any function in a single line.
+This function is extensively used with map(),filter(),reduce().
+syntax:
+lambda argument:expression
+
