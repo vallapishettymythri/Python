@@ -1,0 +1,9 @@
+Generator:
+Generatoris a function it will not take any type of input.
+Generator is used to generate a sequence of a number using 'yield' keyword. 
+Rather than storing the entire data, on to the RAM, better to get it or generate it when it required.
+using next()
+Due to this memory utilization is getting reduced.
+
+Once we reach the yield, the execution is supended. When we call next..it is getting generated 
+by the variable by assigning and moving next.
