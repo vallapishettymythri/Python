@@ -1,3 +1,15 @@
+#log files- csv file
+#1.read one by one files
+#create 10 files- file handling concepts
+#1.eid
+#2.ename
+#3.activity- 1.work data base
+        #2. check the validation
+        #3. test model
+        #4. taken the gate way connection
+#one by one iterate the file and print all the activities of that files.
+
+
 import csv
 files = [
     r"C:\Users\HP\OneDrive\Desktop\Practice\logfiles\file1.csv",
