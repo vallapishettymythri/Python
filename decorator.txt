@@ -1,0 +1,11 @@
+Decorator:
+Decorator is a function which takes another function as a 
+input and generate same function as a output but with a extended function.
+
+syntax:
+def decorator_function(func):
+    def wrapper():
+        bodu
+    return wrapper
+@decorator_function
+and function goes..
